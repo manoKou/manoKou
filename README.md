@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @manoKou
+- 👀 I’m big on BEM and front end development
+- 🌱 I’m currently learning React
