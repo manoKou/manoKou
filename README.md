@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Manos!
-- 👀 I’m a Javascript person. Currently into React, Typescript, Express, GraphQL. MeterialUI is my component lib of choice. Especially love all things CSS, from SCSS and BEM to JSS and css modules. 
+- 👀 I’m a Javascript person. Currently into React, Typescript, Express, GraphQL. MaterialUI is my component lib of choice. Especially love all things CSS, from SCSS and BEM to JSS and css modules. 
 - 🌱 I’m learning Next.Js 
